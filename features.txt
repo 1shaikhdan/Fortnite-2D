@@ -1,0 +1,19 @@
+An itemized list of additional features:
+
+1) Different Actors have different velocities
+2) Obstacles can be destroyed
+3) Power ups can be picked up
+4) Different weapons have different characteristics
+5) Different weapons; base weapon with unlimited ammo stash, and strong weapon with limited ammo
+6) Mini-map on display (press m)
+7) Sound fx; Corresponding sound for each gun. Reload sound effect
+
+8) Player has shield that takes damage, seperate from health, that regenrates when player is not hit for a while
+9) Player can switch weapons
+10) Player can pause game by pressing p
+11) Free navigation while in game (game pauses automatically)
+12) Gameplay with uncapped levels that increase in difficulty and complexity
+13) Boxes can drop power ups
+14) Score goes up from killing enemies (different enemies give differnet scores)
+15) Gun has "ready" ammo counter and "stashed" ammo counter
+16) Randomly generated player colour
